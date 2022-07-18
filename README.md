@@ -1,6 +1,6 @@
 # Registration
 
-A simple responsive website that diplays a sample design of Registration form for company for registering purposes.
+A simple responsive website that displays a sample design of Registration form for company for registering purposes.
 
 Images are attached for reference & download purpose as well.
 
